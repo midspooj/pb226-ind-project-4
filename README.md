@@ -78,9 +78,6 @@ Replace <YOUR_APP_NAME> with your app name and <YOUR_REGION> with your desired A
 
       - https://<YOUR_APP_NAME>.azurewebsites.net
 
-<p align="center">
-  <img width="600" src="https://github.com/nogibjj/IDS706-Individual_Project_4_us26/blob/main/images/5.png" alt="2">
-</p>	
 
 
 ## HTML Templates
