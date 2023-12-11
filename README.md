@@ -23,13 +23,13 @@ This application uses a pre-trained sentiment analysis model, but Hugging Face o
 ### Working of the app
 
 <p align="center">
-  ![5](https://github.com/midspooj/pb226-ind-project-4/assets/142264378/90fb81d9-9aee-46e0-8857-1a92919826eb)
+  https://github.com/midspooj/pb226-ind-project-4/blob/master/5%20-%20Copy.jpg
 
 >
 </p>	
 
 <p align="center">
-  ![5](https://github.com/midspooj/pb226-ind-project-4/assets/142264378/c152a26b-36e6-4a72-b034-31470118a930)
+  https://github.com/midspooj/pb226-ind-project-4/blob/master/8.jpg
 
 >
 </p>	
